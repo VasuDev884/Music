@@ -1,0 +1,19 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+}
+
+.Container{
+display: flex;
+justify-content: space-between;
+margin: 5px;
+}
+
+.AubioHolder{
+  width: 49%;
+}
